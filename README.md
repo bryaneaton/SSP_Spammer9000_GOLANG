@@ -28,6 +28,6 @@ export REGSCALE_TOKEN="Beaerer <token>"
 To run the project with `go run`, navigate to the project directory and run the following command:
 
 ```bash
-go run main.go
+go run main.go 1 # Save a single security plan
 ```
 
