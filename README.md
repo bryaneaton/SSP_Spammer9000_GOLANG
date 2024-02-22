@@ -19,7 +19,7 @@ go build
 
 ```bash
 export REGSCALE_DOMAIN="https://regscale.whatever.io"
-export REGSCALE_TOKEN="Beaerer <token>"
+export REGSCALE_TOKEN="Bearer <token>"
 ```
 
 
