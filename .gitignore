@@ -1,0 +1,66 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+SSP_Spammer9000_GOLANG
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# IDE/Editor folders
+.idea
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.s
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.lib
+*.dll
+*.so
+*.dylib
+*.a
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+*.apk
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Directories used by tools like godep
+_Godeps
+
+# JetBrains IDE
+.idea/
+
+# Vscode files
+.vscode/
+
+# End of https://www.toptal.com/developers/gitignore/api/go
